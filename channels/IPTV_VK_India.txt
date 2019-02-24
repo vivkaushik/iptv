@@ -1,0 +1,397 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",~ INDIAN TV ~
+
+#EXTINF:-1,INDIAN |, ZEE ACTION
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/2789.m3u8
+
+#EXTINF:-1,INDIAN |, ZEE ACTION
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/2794.m3u8
+
+#EXTINF:-1,INDIAN |, ZEE CINEMA
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/7218.m3u8
+
+#EXTINF:-1,INDIAN |, ZEE TV HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/2889.m3u8
+
+#EXTINF:-1,INDIAN |, ZEE TV HD-1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/index.m3u8
+
+#EXTINF:-1,INDIAN |, ZEE PUNJABI
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/2885.m3u8
+
+#EXTINF:-1,INDIAN |, STAR PLUS
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/7213.m3u8
+
+#EXTINF:-1,INDIAN |, STAR PLUS HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/758.m3u8
+
+#EXTINF:-1,IN: star plus UK
+http://iptv-volkan.net:8000/media/media/1061
+
+#EXTINF:-1,INDIAN |, STAR BHARAT
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/760.m3u8
+
+#EXTINF:-1,INDIAN |, STAR BHARAT-1
+http://iptv-volkan.net:8000/media/media/2306
+
+#EXTINF:-1,INDIAN |, STAR GOLD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/757.m3u8
+
+#EXTINF:-1,INDIAN |, SONY TV HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/2799.m3u8
+
+#EXTINF:-1,INDIAN |, SONY TV
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/766.m3u8
+
+#EXTINF:-1,INDIAN |, SONY MAX
+http://iptv-volkan.net:8000/media/media/1060
+
+#EXTINF:-1,INDIAN |, SONY MAX 2
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/901.m3u8
+
+#EXTINF:-1,INDIAN |, SONY TV HD IN
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/7214.m3u8
+
+#EXTINF:-1,INDIAN |, SONY SAB TV
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/2802.m3u8
+
+#EXTINF:-1,INDIAN |, B4U MOVIE
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/2807.m3u8
+
+#EXTINF:-1,INDIAN |, & PICTURE HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/2808.m3u8
+
+#EXTINF:-1,INDIAN |, &TV HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/2781.m3u8
+
+#EXTINF:-1,INDIAN |, &TV HD
+http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
+
+#EXTINF:-1,INDIAN |, &TV HD-1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/01.m3u8
+
+#EXTINF:-1,INDIAN |, X`Zee Café HD
+http://iptv-volkan.net:8000/media/media/2542
+
+#EXTINF:-1,INDIAN |, enterr10
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/764.m3u8
+
+#EXTINF:-1,INDIAN |, COLORS HD
+http://89.39.104.115:8000/live/bilo445/bilo445112conections/7216.m3u8
+
+#EXTINF:-1,INDIAN |, DIL SE [720p]
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
+#EXTINF:-1,INDIAN |, ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+
+#EXTINF:-1,INDIAN |, POP PATAKA
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
+#EXTINF:-1,INDIAN |, DESI CHNNEL
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1,INDIAN |, DESI PLUS
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8 
+
+#EXTINF:-1,INDIAN |, ZING
+http://iptv-volkan.net:8000/media/media/2320
+
+#EXTINF:-1,INDIAN |, Utv Movies
+http://iptv-volkan.net:8000/media/media/4202
+
+#EXTINF:-1,INDIAN |, RISHTEY
+http://iptv-volkan.net:8000/media/media/2303
+
+#EXTINF:-1,INDIAN |, START Movies HD
+http://iptv-volkan.net:8000/media/media/2302
+
+#EXTINF:-1,INDIAN |, NATIONAL GEOGRAPHIC
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13711.m3u8
+
+#EXTINF:-1,INDIAN |,CNBC HD
+http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
+
+#EXTINF:-1,INDIAN |, CNBC HK
+http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
+
+#EXTINF:-1,INDIAN |, Bloomberg India
+http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
+
+#EXTINF:-1,INDIAN |, CNBC AWAAZ
+https://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1,INDIAN |, CNBC 18
+https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1,INDIAN |, CNN NEWS18
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
+
+#EXTINF:-1,INDIAN |, AAJTAK NEWS
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u84
+
+#EXTINF:-1,INDIAN |, AAJTAK NEWS-1
+http://iptv-volkan.net:8000/media/media/2323
+
+#EXTINF:-1,INDIAN |, TIMES NOW
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+#EXTINF:-1,INDIAN |, LIVE TODAY
+http://livetodaycloud.purplestream.in/livetoday/livetoday3-live.smil/chunklist.m3u8
+
+#EXTINF:-1,INDIAN |, AMAR UJALA
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+
+#EXTINF:-1,INDIAN |, TOTAL TV
+http://172.104.54.227:1935/trans/totaltv.stream_aac/chunklist.m3u8
+#EXTINF:-1,INDIAN |, DD NEWS
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:-1,INDIAN |, NDTV TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+
+#EXTINF:-1,INDIAN |, 24x7 NEWS
+http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8
+
+#EXTINF:-1,INDIAN |, Lok Sabha TV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+
+#EXTINF:-1,INDIAN |, Rajya Sabha TV
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+#EXTINF:-1,INDIAN |, NDTV.in
+http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
+
+#EXTINF:-1,INDIAN |, NDTV 24x7
+http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8
+
+#EXTINF:-1,INDIAN |, AAJ TAK
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-1,INDIAN |, SCIENCE CHANNEL
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTINF:-1,INDIAN |, D HD
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1,INDIAN |, ID Discovery HD
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:-1,INDIAN |, Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+
+#EXTINF:-1,INDIAN |, FOX SPORTS RACING USA
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1,INDIAN |, Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1,INDIAN |,,????? 24 (Science Russia)
+http://92.43.140.249/s68/04.m3u8
+
+#EXTINF:-1,INDIAN |, star sports 1
+http://iptv-volkan.net:8000/media/media/2442
+
+#EXTINF:-1,INDIAN |, star sports 2
+http://iptv-volkan.net:8000/media/media/2443
+
+#EXTINF:-1,INDIAN |, star sports 3
+http://iptv-volkan.net:8000/media/media/2444
+
+#EXTINF:-1,INDIAN |, Ten -1
+http://iptv-volkan.net:8000/media/media/2304
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
+
+#EXTINF:-1,INDIAN |, SONT TEN2
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/01.m3u8
+
+#EXTINF:-1,INDIAN |, SONT TEN3
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/01.m3u8
+
+#EXTINF:-1,INDIAN |, 	Sky Net Sports 6
+http://iptv-volkan.net:8000/media/media/2480
+
+#EXTINF:-1,INDIAN |, 	TSN 5 Sport
+http://iptv-volkan.net:8000/media/media/2492
+
+#EXTINF:-1,INDIAN |, 	BT Sport
+http://iptv-volkan.net:8000/media/media/2501
+
+
+
+
+#EXTINF:-1,INDIAN |, ESPN USA
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1,INDIAN | DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1,INTERNATIONAL NEWS | ALZAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1,INTERNATIONAL NEWS | CNC3
+http://161.0.157.8/PLTV/88888888/224/3221226845/index.m3u8
+
+#EXTINF:-1,INTERNATIONAL NEWS | Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1,INTERNATIONAL NEWS | CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:-1,INTERNATIONAL NEWS | ACTV 
+http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+
+#EXTINF:-1,INTERNATIONAL NEWS | France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1,INTERNATIONAL NEWS | NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1,INTERNATIONAL NEWS | TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1,INTERNATIONAL NEWS | TV BATON ROUGE
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="USA",~ USA TV ~
+
+#EXTINF:-1,USA TV | 360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+
+#EXTINF:-1,USA TV | FOX 11
+http://api.new.livestream.com/accounts/6140873/events/live/live.m3u8
+
+#EXTINF:-1,USA TV | FOX 13
+http://api.new.livestream.com/accounts/6180769/events/live/live.m3u8
+
+#EXTINF:-1,USA TV | FOX 19
+http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8
+
+#EXTINF:-1,USA TV | FOX 32]
+http://api.new.livestream.com/accounts/6370732/events/live/live.m3u8
+
+#EXTINF:-1,USA TV | ,FOX 46
+http://api.new.livestream.com/accounts/6370805/events/live/live.m3u8
+
+#EXTINF:-1,USA TV | FOX 54
+http://api.new.livestream.com/accounts/11328309/events/live/live.m3u8
+
+#EXTINF:-1,USA TV | WARROOM
+https://infowarslive-lh.akamaihd.net/i/WarRoom_1@561925/master.m3u8
+
+#EXTINF:-1,USA TV | VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1,USA TV | a54
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1,USA TV | VOA365
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+
+#EXTINF:-1,USA TV | NEWS CENTER 7 OHIO 
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+
+#EXTINF:-1,USA TV | VTV CHANNEL 6 COLORADO
+http://hls.ksl.com/t/strata/playlist.m3u8
+
+#EXTINF:-1,USA TV | POP
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:-1,USA TV | MCM Top
+http://92.43.140.249/s49/04.m3u8
+
+#EXTINF:-1,USA TV | NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique/playlist.m3u8
+
+
+#EXTINF:-1,USA TV | PATV
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+
+#EXTINF:-1,USA TV | ORANGE TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+
+#EXTINF:-1,USA TV | PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:-1,USA TV | ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1,USA TV | WXXV25
+https://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+
+#EXTINF:-1,USA TV | XCORPS TV
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+
+#EXTINF:-1,USA TV | TeleBoston TV
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+
+#EXTINF:-1,USA TV | WWSB 7 Sarasota (ABC)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1,USA TV | Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1,USA TV | WCCA TV WORCESTER
+http://worcester.vod.castus.tv/live/ch1.m3u8
+
+#EXTINF:-1,USA TV |, Rev'n USA
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+
+#EXTINF:-1,USA TV | MIAMI TV HD*
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1,USA TV | Red Bull TV HD*
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1,USA TV | SHOWTIME*
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:-1,USA TV |, TLC*
+http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:-1,USA TV | FOX Premium Comedy*
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1,USA TV | Red Bull TV HD-1
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#EXTINF:-1,USA TV | MY9
+http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
+
+#EXTINF:-1,USA TV | *
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",AMERICAN HORRORS [288p]
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",FOX Premium Comedy [360p]
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",FOX Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",HBO2 [720p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Pluto Movies
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Channel
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Channel
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8?hdnts=exp%3D1512080426%7Eacl%3D%2Fi%2F%2A569927%2F%2A%7Ehmac%3D00bf27551374ebc12bc4ebe53e3c5ffd8c3a958231238b907e04fad220dc0b25
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Sony Movie Network
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1570px-Showtime.svg.png",Showtime
+http://80.80.160.168/live/7/2500000/live.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Showcase
+http://iptv-volkan.net:8000/media/media/2487
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-name="" tvg-logo="",WWE
+http://m-iptv.net:6204/soso/soso/10376
+
+
+
+
+
+
